@@ -20,7 +20,7 @@ y b es el punto de corte con el eje y. Su dominio es
 
 Su imagen es 
 
-![](https://latex.codecogs.com/gif.latex?\bg_white&space;Im_{f}&space;=&space;\left&space;(&space;-\infty&space;,&space;\infty&space;\right&space;))
+![](https://latex.codecogs.com/gif.latex?\bg_black&space;Im_{f}&space;=&space;\left&space;(&space;-\infty&space;,&space;\infty&space;\right&space;))
 
 ### Función Polinómicas
 Tiene la forma de
