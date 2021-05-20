@@ -11,15 +11,16 @@ donde m y b ∈ **R**
 
 m puede ser calculado por: 
 
-![](https://latex.codecogs.com/gif.latex?m&space;=&space;\frac{y_{2}&space;-&space;y_{1}}{x_{2}&space;-&space;x_{1}})
+
+![](https://latex.codecogs.com/gif.latex?\bg_white&space;m&space;=&space;\frac{y_{1}&space;-&space;y_{2}}{x_{2}&space;-&space;x_{1}})
 
 y b es el punto de corte con el eje y. Su dominio es 
 
-![](https://latex.codecogs.com/gif.latex?Dom_{f}&space;=&space;\left&space;(&space;-\infty&space;,&space;\infty&space;\right&space;))
+![](https://latex.codecogs.com/gif.latex?\bg_white&space;Dom_{f}&space;=&space;\left&space;(&space;-&space;\infty,&space;\infty&space;\right&space;))
 
 Su imagen es 
 
-![](https://latex.codecogs.com/gif.latex?Im_{f}&space;=&space;\left&space;(&space;-\infty&space;,&space;\infty&space;\right&space;))
+![](https://latex.codecogs.com/gif.latex?\bg_white&space;Im_{f}&space;=&space;\left&space;(&space;-\infty&space;,&space;\infty&space;\right&space;))
 
 ### Función Polinómicas
 Tiene la forma de
